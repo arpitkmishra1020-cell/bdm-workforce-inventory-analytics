@@ -1,0 +1,6 @@
+attendance_status,sla_met,sla_breached,service_visits,sla_compliance_pct
+Present,263,18,281,93.59
+Late,23,11,34,67.65
+Half-day,13,0,13,100.0
+Absent - Unplanned,11,13,24,45.83
+Absent - Approved,5,3,8,62.5
