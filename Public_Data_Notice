@@ -1,0 +1,11 @@
+# Public Data Notice
+
+This repository intentionally does not publish the original business records.
+
+The portfolio data are:
+- anonymised at the inventory-category level;
+- indexed for financial series so absolute business amounts are not exposed;
+- aggregated for workforce and service operations.
+
+The repository demonstrates analytical methodology, business interpretation
+and portfolio presentation rather than redistributing confidential source data.
